@@ -1,0 +1,35 @@
+_repo: Beyond-Rope-and-Fence_63745
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sichel, Harold
+    aliases:
+    - Sichel, Harold Mark
+    - Sichel, Harold M.
+    birthdate: 1881
+    deathdate: 1948
+    gutenberg_agent_id: '39453'
+    url: http://www.gutenberg.org/2009/agents/39453
+creator:
+  author:
+    agent_name: Grew, David
+    gutenberg_agent_id: '52580'
+    url: http://www.gutenberg.org/2009/agents/52580
+description: ''
+gutenberg_issued: '2020-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63745'
+  lccn: '22019018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horses -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Wild horses -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- GITenberg
+title: Beyond Rope and Fence
+url: http://www.gutenberg.org/ebooks/63745
