@@ -1,5 +1,5 @@
 _repo: Beyond-Rope-and-Fence_63745
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sichel, Harold
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1948
     gutenberg_agent_id: '39453'
     url: http://www.gutenberg.org/2009/agents/39453
+covers:
+- cover_type: archival
+  image_path: 63745-h/images/cover.jpg
 creator:
   author:
     agent_name: Grew, David
     gutenberg_agent_id: '52580'
     url: http://www.gutenberg.org/2009/agents/52580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63745#Beyond-Rope-and-Fence
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
